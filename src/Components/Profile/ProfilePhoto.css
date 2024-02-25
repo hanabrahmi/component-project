@@ -1,0 +1,7 @@
+/* ProfilePhoto.css */
+.profile-photo {
+    width: 100px; /* Set the width to make the photo smaller */
+    height: 100px; /* Set the height to make the photo smaller */
+    border-radius: 50%; /* Optional: make the photo round */
+  }
+  
